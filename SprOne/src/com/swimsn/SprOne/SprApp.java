@@ -20,12 +20,9 @@ public class SprApp {
 		
 		CricketCoach c = context.getBean("Coach3",CricketCoach.class);
 		
-		System.out.println(c.getDailyWorkout());
-		System.out.println(c.getDailyFortune());
 		System.out.println(c.getEmailAddress());
 		System.out.println(c.getTeam());
 		context.close();
-		
 		
 	}
 
