@@ -1,6 +1,5 @@
 package com.swimsn.SprOne;
 
-public interface Coach {
-	String getDailyWorkout();
+public interface FortuneService {
 	String getDailyFortune();
 }
