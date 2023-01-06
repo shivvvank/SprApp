@@ -1,3 +1,4 @@
-Test App for Spring Core 
+# SprMVCApp
+Test App for Spring Core
 
-Just For Fun !!!
+Just For Fun!!
